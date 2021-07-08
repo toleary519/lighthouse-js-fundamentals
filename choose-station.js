@@ -25,6 +25,3 @@ function chooseStations(stations) {
   return goodStations;
 }
 chooseStations(stations);
-
-
-

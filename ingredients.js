@@ -15,4 +15,3 @@ for (ing of ingredients.reverse()) {
 console.log(ing);
 }
 
-
